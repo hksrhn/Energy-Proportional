@@ -1,0 +1,9 @@
+Timestamp: 2025-06-14
+Machine: MacBook Pro 2019 (Intel Core i9)
+Test: stress-ng --cpu 2 --cpu-load 50 --timeout 60
+
+powermetrics output summary:
+CPU Power: 32.1W
+DRAM Power: 4.3W
+GPU Power: 3.5W
+Total Average: 40.2W
