@@ -19,4 +19,4 @@ CSV includes:
 
 ## Authors
 
-Prepared by [Your Name]
+Prepared by Hatice Kubra Sarihan
